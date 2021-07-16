@@ -1,0 +1,38 @@
+body{ background-color: black; }
+
+.bgimg{ border-radius: 20px;background-image: url(ice_2.jpg); height: 97vh; background-size: 100% 100%; }
+
+.navbar-brand{ font-family: 'Pacifico';color: white;word-spacing: 7px; }
+
+
+
+
+.Beauty h1{ font-family: 'Leckerli One';font-size: 50px;color:  #FFFF00 ; }
+.Beauty p{ font-family: 'KoHo';font-size: 13px;color: white; }
+
+.Tipping{ border: 3px solid white;padding: 10px;border-radius:10px; }
+.Tipping h6{ font-family: 'Leckerli One';color: white;margin-top:-20px;background-color: #111; }
+.Tipping p{ font-size: 10px; font-family: 'KoHo';color: white; }
+
+
+.Dough{ border: 3px solid white;padding: 10px;border-radius:10px; }
+.Dough h6{ font-family: 'Leckerli One';color: white;margin-top:-20px;background-color: #111; }
+.Dough p{ font-size: 10px; font-family: 'KoHo';color: white; }
+
+
+.button_1{ padding: 4px 20px;border-radius: 12px; color:white ; background-color: #FF1493 ; border:2px solid white; }
+.button_2{ padding: 4px 20px;border-radius: 12px;background-color: #00008B ; color: white; }
+
+
+
+
+
+
+
+/*https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488*/
+
+
+
+
+
+
